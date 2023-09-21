@@ -7,3 +7,5 @@ O curso é composto por 9 etapas. Possuindo video aulas, atividades teoricas e p
 Conteúdo vai ser sobre programação fullstack - Java + Angular.
 
 Primeiro resumo sobre Git e GitHub - [Acesse aqui](https://github.com/MiVilelaG/resumos-bootcamp-santander/blob/main/resumos/resumo-aula1.md)
+
+Segundo resumo sobre ----- - [Acesse aqui](URL)
