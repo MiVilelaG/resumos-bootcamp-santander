@@ -1,22 +1,7 @@
+## Repositorio para os resumos
 
-# Resumos GIT e GITHUB
+Este repositório foi criado para guardar os resumos das aulas do bootcamp do Santander + DIO
 
-Repositorio para guardamos resumos sobre o primeiro modulo sobre git e github proposto pela DIO
+O curso é composto por 9 etapas. Possuindo video aulas, atividades teoricas e práticas.
 
-## 🎂🎶🙌
-
-Utilizamos o atalho Windows + . para abrirmos a janela de emojis
-
-## Resumo das aulas
-
-| Conteúdo | Resumo |
-|----------| -------|
-|Salvando alterações no repositorio local| (Resumo)
-
-## Linha de código
-
-```
-git init
-```
-
-
+Conteúdo vai ser sobre programação fullstack - Java + Angular.
