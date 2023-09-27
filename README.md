@@ -1,6 +1,6 @@
-## Repositorio para os resumos
+## Repositorio para os resumos e atividades
 
-Este repositório foi criado para guardar os resumos das aulas do bootcamp do Santander + DIO
+Este repositório foi criado para guardar os resumos e atividades das aulas do bootcamp do Santander + DIO
 
 O curso é composto por 9 etapas. Possuindo video aulas, atividades teoricas e práticas.
 
